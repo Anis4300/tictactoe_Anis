@@ -3,6 +3,7 @@
 
   # A simple Tic Tac Toe game in Ruby
 
+Simplement lancer l'app.rb (faire au préalable un bundle install si nécéssaire)
 
   ## Les points peu compris / vite(pas) traités : 
   <ul>
